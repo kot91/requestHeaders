@@ -6,6 +6,6 @@
   "repository": "",
   "author": "Justin Thompson <justin_thompson91@hotmail.com>",
   "dependencies": {
-    "express": "~3.2.4",
+    "express": "~3.2.4"
   }
 }

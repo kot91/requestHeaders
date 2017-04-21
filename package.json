@@ -1,5 +1,5 @@
 {
-  "name": "request header parser",
+  "name": "request-header-parser",
   "version": "0.0.0",
   "description": "A Request Header parser that returns IP address, language and software",
   "main": "server.js",
